@@ -1,6 +1,6 @@
 # 🎮 Detona Ralph - Mini Game
 
-Este é um mini game inspirado no universo de *Detona Ralph*, desenvolvido com HTML, CSS e JavaScript. O objetivo é clicar nos inimigos que aparecem aleatoriamente no painel antes que o tempo acabe!
+Este é um mini game inspirado no universo de _Detona Ralph_, desenvolvido com HTML, CSS e JavaScript. O objetivo é clicar nos inimigos que aparecem aleatoriamente no painel antes que o tempo acabe!
 
 ## 📁 Estrutura do Projeto
 
@@ -13,7 +13,7 @@ Este é um mini game inspirado no universo de *Detona Ralph*, desenvolvido com H
 
 ## 🖼️ Layout
 
-- Interface retrô com fonte *Press Start 2P*.
+- Interface retrô com fonte _Press Start 2P_.
 - Painel de jogo com 9 quadrados onde os inimigos aparecem.
 - Estilo responsivo para dispositivos móveis.
 
