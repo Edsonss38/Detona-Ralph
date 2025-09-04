@@ -1,7 +1,7 @@
 # 🎮 Detona Ralph - Mini Game
 
 Este é um mini game inspirado no universo de _Detona Ralph_, desenvolvido com HTML, CSS e JavaScript. O objetivo é clicar nos inimigos que aparecem aleatoriamente no painel antes que o tempo acabe!
-[🔗 Jogue agora](https://seu-link-aqui.github.io/)
+[▶️ Jogue agora!](https://edsonss38.github.io/Detona-Ralph/)
 
 ## 🧠 Funcionalidades
 
